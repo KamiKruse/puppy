@@ -18,3 +18,6 @@ func BigBarks() string {
 func Fromversion110() string {
 	return "This is version 1.1.0"
 }
+func Fromversion120() string {
+	return "This is version 1.2.0"
+}
