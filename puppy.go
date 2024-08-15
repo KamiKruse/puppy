@@ -21,3 +21,6 @@ func Fromversion110() string {
 func Fromversion120() string {
 	return "This is version 1.2.0"
 }
+func Fromversion130() string {
+	return "This is version 1.3.0"
+}
